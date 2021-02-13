@@ -1,0 +1,9 @@
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\bin\Debug\MarsRovers.exe.config
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\bin\Debug\MarsRovers.exe
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\bin\Debug\MarsRovers.pdb
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\obj\Debug\MarsRovers.MarsForm.resources
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\obj\Debug\MarsRovers.Properties.Resources.resources
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\obj\Debug\MarsRovers.csproj.GenerateResource.cache
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\obj\Debug\MarsRovers.csproj.CoreCompileInputs.cache
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\obj\Debug\MarsRovers.exe
+C:\Users\besimm\Source\Repos\MarsRovers\MarsRovers\obj\Debug\MarsRovers.pdb
